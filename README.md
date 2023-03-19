@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CristianEmanuelCamposFuentes ☕
 - 👀 I’m interested in River Plate ⚽ Videogames 🎮 and Music! 🎸
-- 🌱 I’m currently learning Javascript 👨‍💻🚀
+- 🌱 I’m currently learning Java 👨‍💻🚀
 - 💞️ I am looking to collaborate in a company dedicated to fullstack web development 🤩💫
 - 📫 How to reach me :
 - E-mail: cristianemanuelcamposfuentes@hotmail.com

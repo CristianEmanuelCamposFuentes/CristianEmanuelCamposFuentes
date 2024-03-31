@@ -1,20 +1,16 @@
-# 👋 Hi, I’m @CristianEmanuelCamposFuentes ☕
+¡Claro, aquí tienes una versión actualizada de tu perfil de GitHub!
 
-Welcome to my GitHub profile! I'm Cristian Emanuel Campos Fuentes, a passionate software developer with a strong focus on Quality Control (QC) Testing and Automation. Here are a few things about me:
+# 👋 ¡Hola! Soy @CristianEmanuelCamposFuentes ☕
 
-- 👀 I’m interested in River Plate ⚽, Videogames 🎮, and Music! 🎸
-- 🌱 I’m currently dedicated to studying and mastering QC Testing + Automation for software development 👨‍💻🔍
-- 💞️ I am actively seeking opportunities to collaborate in a company that values software quality and automation 🤝💫
+¡Bienvenido a mi perfil de GitHub! Soy Cristian Emanuel Campos Fuentes, un apasionado desarrollador de software con un fuerte enfoque en el desarrollo backend en Java. Aquí tienes algunos detalles sobre mí:
 
-## 📫 How to reach me:
+- 👀 Me interesan River Plate ⚽, los videojuegos 🎮 y la música 🎸.
+- 🌱 Actualmente me estoy capacitando para convertirme en un desarrollador Java Backend dedicado al diseño y desarrollo de aplicaciones escalables y eficientes 👨‍💻🔍.
+- 💼 Estoy buscando activamente oportunidades para colaborar en una empresa que valore la calidad del software y el desarrollo backend en Java 🤝💫.
+
+## 📫 Cómo contactarme:
 
 - E-mail: cristianemanuelcamposfuentes@hotmail.com
 - LinkedIn: [Cristian Emanuel Campos Fuentes](https://www.linkedin.com/in/cristian-emanuel-campos-fuentes)
 
-Let's connect and explore the exciting world of QC Testing and Automation together! 😄🚀
-
-<!---- 
-
-CristianEmanuelCamposFuentes/CristianEmanuelCamposFuentes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+¡Conéctate conmigo y exploremos juntos el emocionante mundo del desarrollo backend en Java! 😄🚀

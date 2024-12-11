@@ -1,14 +1,49 @@
-# 👋 ¡Hola! Soy @CristianEmanuelCamposFuentes ☕
+# 👋 ¡Hola! Soy **@CristianEmanuelCamposFuentes** 🍫📊
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de software con un fuerte enfoque en el desarrollo backend en Java. Aquí tienes algunos detalles sobre mí:
+Bienvenido a mi perfil de GitHub, donde exploro el emocionante mundo del **análisis de datos** , con experiencia en la gestión de información en la industria alimentaria.. Aquí te cuento un poco más sobre mí:
 
-- 👀 Me interesan River Plate ⚽, los videojuegos 🎮 y la música 🎸.
-- 🌱 Actualmente me estoy capacitando para convertirme en un desarrollador Java Backend dedicado al diseño y desarrollo de aplicaciones escalables y eficientes 👨‍💻🔍.
-- 💼 Estoy buscando activamente oportunidades para colaborar en una empresa que valore la calidad del software y el desarrollo backend en Java 🤝💫.
+---
 
-## 📫 Cómo contactarme:
+## 🌟 **Sobre mí**
 
-- E-mail: cristianemanuelcamposfuentes@hotmail.com
-- LinkedIn: [Cristian Emanuel Campos Fuentes](https://www.linkedin.com/in/cristian-emanuel-campos-fuentes)
+- 🎯 **Profesión:** Analista de Datos en crecimiento.
+- 💻 **Herramientas clave:** Python 🐍 | MySQL 🗄️ | Power BI 📊 | Excel 📑.
+- 📊 **Experiencia:** Actualmente contribuyo al análisis y mejora de procesos en una fábrica de chocolates y golosinas:
+  - Automatización de reportes de stock y producción.
+  - Visualización de datos en dashboards interactivos con Power BI.
+  - Gestión de bases de datos relacionales en MySQL.
 
-¡Conéctate conmigo y exploremos juntos el emocionante mundo del desarrollo backend en Java! 😄🚀
+---
+
+## 🛠️ **Habilidades y Tecnologías**
+
+| 🧰 Herramienta          | 📈 Nivel |
+|-------------------------|----------|
+| Python                 | Intermedio |
+| Excel                  | Avanzado |
+| Power BI               | Intermedio |
+| MySQL                  | Intermedio |
+| GitHub                 | Intermedio |
+
+---
+
+## 🚀 **Proyectos destacados**
+
+- **📊 Dashboard de Power BI:** Desarrollo de visualizaciones para optimizar eficiencias en la producción de chocolates.
+- **🐍 Automatización en Python:** Scripts para procesar datos y generar reportes diarios.
+- **🗄️ Modelado de Bases de Datos:** Diseño y administración de bases en MySQL para centralizar información.
+
+---
+
+## 🤝 **Conéctate conmigo**
+
+- ✉️ **E-mail:** [cristianemanuelcamposfuentes@hotmail.com](mailto:cristianemanuelcamposfuentes@hotmail.com)  
+- 🔗 **LinkedIn:** [Cristian Emanuel Campos Fuentes](https://www.linkedin.com/in/cristian-emanuel-campos-fuentes)  
+
+---
+
+## 🎯 **Mis objetivos**
+
+- 🧠 Aprender y especializarme en análisis predictivo.
+- 🔄 Migrar proyectos a entornos robustos como **MySQL**.
+- 🌍 Colaborar con empresas que valoren los datos para tomar decisiones estratégicas.

@@ -76,6 +76,7 @@ Soy un apasionado por el **Análisis de Datos** con experiencia en automatizaci�
   <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
     Ver repo
   </a>
+<br/>  
 
 > Proyecto final del curso *Data Science I* en Coderhouse, orientado a descubrir patrones relacionados con las puntuaciones de videojuegos.
 
@@ -93,21 +94,22 @@ Soy un apasionado por el **Análisis de Datos** con experiencia en automatizaci�
 
   <!-- Fila 1 -->
   <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_corr_matrix.PNG"
-         alt="Matriz de correlación" width="45%" />
+  <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_distribution_userscore.PNG"
+       alt="Distribución de userScore" width="45%" />
   </a>
   <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_boxplot_userscore_by_platform.PNG"
-         alt="userScore por plataforma (boxplot)" width="45%" />
+    <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_corr_matrix.PNG"
+         alt="Matriz de correlación" width="45%" />
   </a>
 
   <br/>
 
   <!-- Fila 2 -->
   <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_distribution_userscore.PNG"
-         alt="Distribución de userScore" width="45%" />
+    <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_boxplot_userscore_by_platform.PNG"
+         alt="userScore por plataforma (boxplot)" width="45%" />
   </a>
+
   <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
     <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_platform_counts.PNG"
          alt="Conteo de juegos por plataforma" width="45%" />
@@ -118,11 +120,15 @@ Soy un apasionado por el **Análisis de Datos** con experiencia en automatizaci�
   <sub>
     Limpieza → EDA → features → modelado (Regresión Lineal, Random Forest, KNN, Decision Tree, Gradient Boosting, XGBoost).
     Validación cruzada (cv=5) con R² alto y errores bajos. 
-    <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">Código y reporte</a>.
+    <br/>
   </sub>
+  <br/>
+  <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank"> 🟢 Link al repo</a>
 </div>
 
 <br/>
+
+---
 
 <div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2> 🎯 Mis objetivos</h2></div>
 

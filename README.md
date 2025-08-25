@@ -123,7 +123,7 @@ Soy un apasionado por el **Análisis de Datos** con experiencia en automatizaci�
     <br/>
   </sub>
   <br/>
-  <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank"> 🟢 Link al repo</a>
+
 </div>
 
 <br/>

@@ -49,7 +49,12 @@ Soy un apasionado por el **Análisis de Datos** con experiencia en automatizaci�
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h4>📸 Imágenes del proyecto: </h4>
  
-*Proximamente subiré el repo y las imágenes del proyecto*
+<a href="https://github.com/CristianEmanuelCamposFuentes/chocogolo-powerbi" target="_blank">
+  <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/chocogolo-powerbi/main/assets/stock.png" alt="Stock" width="48%">
+  <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/chocogolo-powerbi/main/assets/movimientos.png" alt="Movimientos" width="48%">
+  <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/chocogolo-powerbi/main/assets/pendientes.png" alt="Pendientes" width="48%">
+  <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/chocogolo-powerbi/main/assets/deposito.png" alt="Depósito" width="48%">
+</a>
 
 ---
 <div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h3>🐍 Sistema de Gestión de Movimientos (En desarrollo - Testing)</h3></div>

@@ -32,7 +32,7 @@ Soy un apasionado por el **Análisis de Datos** con experiencia en automatizaci�
 <div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>🚀 Proyectos destacados</h2></div>
 
 
-<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h3>📊 Power BI – Dashboard de Producción y Stock (Completado)</h3></div>
+<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h3>📊 Power BI – Dashboard de Producción y Stock (Activo - Optimizando)</h3></div>
 
 
 
@@ -52,7 +52,7 @@ Soy un apasionado por el **Análisis de Datos** con experiencia en automatizaci�
 *Proximamente subiré el repo y las imágenes del proyecto*
 
 ---
-<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h3>🐍 Sistema de Gestión de Movimientos (En desarrollo)</h3></div>
+<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h3>🐍 Sistema de Gestión de Movimientos (En desarrollo - Testing)</h3></div>
 
 
 > Aplicación en Python con PyQt6 + MySQL para registrar, visualizar y automatizar movimientos de stock en planta.

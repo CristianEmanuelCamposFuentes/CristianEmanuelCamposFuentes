@@ -1,49 +1,55 @@
-<div align ="center" >
-<h1 > 👋 ¡Hola! Soy Cristian Emanuel Campos Fuentes 🍫📊</h1>
-  
+<div align="center">
+  <h1>🏭 Cristian Emanuel Campos Fuentes</h1>
+  <h3>Industrial Operations | Gestión de Materiales | Digitalización de Inventarios</h3>
 </div>
 
-### ¡Bienvenido/a a mi perfil de GitHub!  
-Soy un apasionado por el **Análisis de Datos** con experiencia en automatización y gestión de información en la industria alimentaria. Actualmente desarrollo soluciones reales aplicadas al control de stock, visualización de datos y mejora de procesos productivos.
+---
 
 
-<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>🧠 Sobre mí</h2></div>
+## 👋 Sobre mí
 
-- 🎯 &nbsp;**Profesión:** Analista de Datos en formación y práctica activa.
-- 💻 &nbsp;**Stack actual:** Python 🐍 | MySQL 🗄️ | Power BI 📊 | Excel 📑
-- 🏭 &nbsp;**Experiencia aplicada:**  
-  - &nbsp;Automatización de reportes de stock y producción.  
-  - &nbsp;Dashboards interactivos con Power BI.  
-  - &nbsp;Gestión de bases de datos relacionales en MySQL.
+Profesional de Gestión de Materiales en industria alimentaria, responsable del control y abastecimiento de más de **7.000 SKU** en entornos industriales con alta estacionalidad y operación 24/7.
 
-<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>💻 Tech Stack</h2></div>
+Mi perfil combina:
 
-<div align ="center" >
+- 📦 Gestión operativa de inventarios  
+- 🔍 Análisis de consumos y prevención de faltantes  
+- 🔄 Control transaccional y trazabilidad  
+- 🧠 Automatización de procesos internos  
+- 📊 Business Intelligence aplicado a producción  
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%23219833.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</div>
+Utilizo tecnología como habilitador para mejorar la eficiencia operativa, confiabilidad de datos y continuidad productiva.
 
-<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>🚀 Proyectos destacados</h2></div>
+---
 
+## 🚀 Proyectos Relevantes
 
-<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h3>📊 Power BI – Dashboard de Producción y Stock (Activo - Optimizando)</h3></div>
+### 🏭 Industrial Inventory Movement System (Privado – En desarrollo)
 
+Sistema interno diseñado para garantizar trazabilidad y control de movimientos de stock en planta.
 
+**Enfoque:**
+- Validaciones automáticas
+- Carga masiva de datos
+- Integridad transaccional
+- Arquitectura modular con Python + SQLAlchemy
+- Preparación de datos para análisis en BI
 
-> Desarrollo de visualizaciones aplicadas al análisis de movimientos, pendientes y stock por ubicación.
+> Proyecto orientado a digitalización industrial y control de inventarios.
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h4>🔹 Funcionalidades:</h4>
+---
 
-- Análisis de eficiencias productivas.
-- Visualización de pedidos pendientes vs entregas.
-- Uso de filtros y segmentadores dinámicos.
-- *Tooltips personalizados (en desarrollo).*
+### 📊 Operational Stock Dashboard (Power BI)
+
+Dashboard desarrollado para monitoreo diario de:
+
+- Rotación de inventarios
+- Movimientos históricos
+- Pedidos pendientes
+- Alertas operativas
+
+Orientado a soporte de decisiones en planificación y abastecimiento.
+
 
 📎 *Dataset ficticio incluido para demostración.*
 
@@ -56,105 +62,54 @@ Soy un apasionado por el **Análisis de Datos** con experiencia en automatizaci�
   <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/chocogolo-powerbi/main/assets/deposito.png" alt="Depósito" width="48%">
 </a>
 
----
-<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h3>🐍 Sistema de Gestión de Movimientos (En desarrollo - Testing)</h3></div>
-
-
-> Aplicación en Python con PyQt6 + MySQL para registrar, visualizar y automatizar movimientos de stock en planta.
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h4>🔹 Módulos incluidos:</h4>
-
-- Ingresos / egresos / ajustes de materiales.
-- Consolidados y traspaso de pallets.
-- Validación de datos, carga masiva y generación de reportes.
-
-🧪 *Actualmente en etapa de validación con datos simulados.*
 
 ---
-<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h3>🎮 Análisis Exploratorio de Videojuegos en Metacritic (Completado)</h3></div>
-<!-- Badge Colab -->
-  <a href="https://colab.research.google.com/drive/1G7AOSqC__0ZdLgQukFz7aPO9bBeicFIV" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab" />
-  </a>
-  &nbsp;•&nbsp;
-  <!-- Link al folder del proyecto -->
-  <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
-    Ver repo
-  </a>
-<br/>  
 
-> Proyecto final del curso *Data Science I* en Coderhouse, orientado a descubrir patrones relacionados con las puntuaciones de videojuegos.
+### 📈 Industrial Operations Analytics (En construcción)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h4>🔹 Contenido del proyecto:</h4>
+Repositorio enfocado en:
 
-- Introducción, hipótesis y enfoque comercial.
-- Limpieza y análisis de datos con `pandas`.
-- Visualizaciones estadísticas con `seaborn` y `matplotlib`.
-- Análisis de correlación entre Metascore, User Score y otras variables.
-- Distribuciones, conteos por plataforma y comparativas gráficas.
+- Simulación de escenarios de faltantes
+- Análisis de consumo estacional
+- Modelos de rotación y clasificación ABC
+- KPIs industriales aplicados a inventarios
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h4>📸 Imágenes del proyecto: </h4>
+Datos anonimizados y enfoque 100% operativo.
 
-  <br/><br/>
+---
 
-  <!-- Fila 1 -->
-  <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
-  <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_distribution_userscore.PNG"
-       alt="Distribución de userScore" width="45%" />
-  </a>
-  <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_corr_matrix.PNG"
-         alt="Matriz de correlación" width="45%" />
-  </a>
+<div align ="center" >
+<h2>🧰 Stack Tecnológico</h2> 
 
-  <br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Excel](https://img.shields.io/badge/Excel-%23219833.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <!-- Fila 2 -->
-  <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_boxplot_userscore_by_platform.PNG"
-         alt="userScore por plataforma (boxplot)" width="45%" />
-  </a>
 
-  <a href="https://github.com/CristianEmanuelCamposFuentes/data-science-portfolio/tree/main/ds-i-metacritic" target="_blank">
-    <img src="https://raw.githubusercontent.com/CristianEmanuelCamposFuentes/data-science-portfolio/main/ds-i-metacritic/figures/fig_platform_counts.PNG"
-         alt="Conteo de juegos por plataforma" width="45%" />
-  </a>
 
-  <br/>
-
-  <sub>
-    Limpieza → EDA → features → modelado (Regresión Lineal, Random Forest, KNN, Decision Tree, Gradient Boosting, XGBoost).
-    Validación cruzada (cv=5) con R² alto y errores bajos. 
-    <br/>
-  </sub>
-  <br/>
-
+*La tecnología es un medio.*  
+*El objetivo es optimizar operaciones industriales.* 
 </div>
 
-<br/>
-
 ---
 
-<div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2> 🎯 Mis objetivos</h2></div>
 
+## 🎯 Enfoque Profesional
 
-- 🧠 Aprender y especializarme en análisis predictivo.
-- 🔄 Migrar proyectos a entornos robustos como MySQL.
-- 🌍 Colaborar con empresas que valoren los datos para tomar decisiones estratégicas.
-- 📌 Finalicé Data Analytics – actualmente cursando **Data Science (1/3)** en Coderhouse.
+Desarrollar soluciones híbridas entre Supply Chain y tecnología, especializándome en digitalización de procesos industriales, control de inventarios y analytics aplicado a operaciones.
+
+También mantengo repositorios académicos de análisis de datos y modelado estadístico.
+
+---
 
 <div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>🌐 Redes y contacto</h2></div>
 
 
 <div align ="center" >
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-emanuel-campos-fuentes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@emanuelcampos1838) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tabacampos) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristianemanuelcamposfuentes@hotmail.com)
-  
-</div>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-emanuel-campos-fuentes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tabacampos) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristianemanuelcamposfuentes@hotmail.com)
 
 ---
-
-> _🛠️ Este perfil está en constante evolución. Próximamente sumaré más imágenes, notebooks de proyectos de Data Science y detalles de los sistemas desarrollados en Python._
-
+</div>

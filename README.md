@@ -1,6 +1,7 @@
 <div align="center">
   <h1>🏭 Cristian Emanuel Campos Fuentes</h1>
-  <h3>Industrial Operations | Gestión de Materiales | Digitalización de Inventarios</h3>
+  <h3>Industrial Operations | Gestión de Materiales | Digitalización de Inventarios | </h3>
+  <h3>Operations-focused Analyst building digital solutions for real industrial environments.</h3>
 </div>
 
 ---

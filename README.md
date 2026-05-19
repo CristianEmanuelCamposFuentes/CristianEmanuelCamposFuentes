@@ -4,7 +4,7 @@
   <h3>Power BI · SQL · Python · Process Improvement</h3>
 </div>
 
----
+
 
 ## 👋 Sobre mí
 
@@ -132,26 +132,38 @@ Trabajo especialmente sobre problemas de:
 → Mejora de procesos industriales.
 ```
 
----
+
 
 
 <div align ="center" >
 <h2>🧰 Stack Tecnológico</h2> 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Excel](https://img.shields.io/badge/Excel-%23219833.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 
 *La tecnología es un medio.*  
 *El objetivo es optimizar operaciones industriales.* 
 </div>
 
----
 
+**Herramientas y conceptos:**
+
+- Power BI · Power Query · DAX básico/intermedio.
+- Excel avanzado · automatización operativa.
+- Python · Pandas · PyQt.
+- SQL · SQLAlchemy · modelado relacional.
+- Git/GitHub.
+- Supply Chain Analytics · Inventory Analytics · Operational KPIs.
 
 ## 🎯 Enfoque profesional
 
@@ -165,7 +177,7 @@ Busco desarrollarme en la intersección entre:
 
 Mi objetivo es construir soluciones que ayuden a mejorar la visibilidad operativa, reducir errores manuales, fortalecer la trazabilidad y facilitar la toma de decisiones.
 
----
+
 
 <div align ="center" > <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>🌐 Redes y contacto</h2></div>
 

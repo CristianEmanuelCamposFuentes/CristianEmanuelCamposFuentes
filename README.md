@@ -51,8 +51,8 @@ El proyecto nace a partir de una necesidad operativa real: reducir la dependenci
 > Proyecto orientado a conectar operación real, sistema transaccional y análisis de datos.
 
 <p align="center">
-  <a href="https://github.com/CristianEmanuelCamposFuentes/movimientos-stock-app" target="_blank">
-    <img src="assets/img/movimientos_stock_app_generar_nota.PNG" alt="Notas de Pedido" width="48%">
+  <a href="https://github.com/CristianEmanuelCamposFuentes/CristianEmanuelCamposFuentes" target="_blank">
+    <img src="assets/movimientos_stock_app_generar_nota.PNG" alt="Notas de Pedido" width="48%">
   </a>
 </p>
 
